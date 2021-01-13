@@ -1,0 +1,50 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level": {
+        "id": "level",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAxMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzA5MDQwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDkwNDAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwOTA0MDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjBiMDQwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDcwNDAyMDIwYTAyMDIwMjAyMDIwMjAyMGEwMjAyMDIwNzA0MDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwOTA3MDQwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjA5MDcwNDAyMDIwMjBhMDIwMjAyMDIwMjBhMDIwMjAyMDkwNzA0MDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwOTA3MDQwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjA5MDcwNDAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDkwNzA0MDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwOTA3MDkwOTA5MDkwMjAyMDIwMjAyMDIwMjAyMDkwOTA5MDcwNDAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDkwNzA1MDYwNjA2MDYwNjA2MDYwNjA2MDYwNjA2MDYwOTA4MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.darkGroundNorthWest0",
+            "sprites.dungeon.darkGroundCenter",
+            "sprites.dungeon.darkGroundNorth",
+            "sprites.dungeon.darkGroundWest",
+            "sprites.dungeon.darkGroundSouthWest0",
+            "sprites.dungeon.darkGroundSouth",
+            "sprites.dungeon.darkGroundEast",
+            "sprites.dungeon.darkGroundSouthEast0",
+            "sprites.castle.saplingOak",
+            "sprites.castle.tilePath5",
+            "sprites.builtin.forestTiles0"
+        ]
+    },
+    "level_0": {
+        "id": "level_0",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAxMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzBhMDQwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMGEwNDAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwYTA0MDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjBiMDQwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDcwNDAyMDIwOTAyMDIwMjAyMDIwMjAyMDkwMjAyMDIwNzA0MDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwYTA3MDQwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjBhMDcwNDAyMDIwMjA5MDIwMjAyMDIwMjA5MDIwMjAyMGEwNzBhMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwYTA3MGEwYTAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwYTBhMDcwYTBhMGEwMjAyMDIwMjAyMDIwMjAyMDIwYTBhMGEwNzBhMGEwYTBhMDIwMjAyMDIwMjAyMDIwYTBhMGEwYTA3MGEwYTBhMGEwYTAyMDIwMjAyMDIwYTBhMGEwYTBhMDcwNDAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMGEwNzA1MDYwNjA2MDYwNjA2MDYwNjA2MDYwNjA2MDYwYTA4MDAwMDAwMDAwMDAwMDAyMDAwMDAwMDAwMDAwMDAwMjAwMDAwMDAwMDAwMDAwMDIwMDAwMDAwMDAwMDAwMDAyMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMjAwMDAwMDAwMDAwMDAwMDIwMDAwMDAwMDAwMDAwMDAyMDIwMDAwMDAwMDAwMDAwMjIyMDAwMDAwMDAwMDIwMDIyMjAyMDAwMDAwMDAyMjAyMjIyMjAwMDAwMDIwMjIwMjIyMjIwMjAwMDAyMjIyMDIwMDAwMDAwMDAwMDAwMDAyMDAwMDAwMDAwMDAwMDAwMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.darkGroundNorthWest0",
+            "sprites.dungeon.darkGroundCenter",
+            "sprites.dungeon.darkGroundNorth",
+            "sprites.dungeon.darkGroundWest",
+            "sprites.dungeon.darkGroundSouthWest0",
+            "sprites.dungeon.darkGroundSouth",
+            "sprites.dungeon.darkGroundEast",
+            "sprites.dungeon.darkGroundSouthEast0",
+            "sprites.castle.tilePath5",
+            "sprites.builtin.brick",
+            "sprites.castle.rock2"
+        ]
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
